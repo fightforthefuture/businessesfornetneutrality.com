@@ -6,14 +6,14 @@
     </div>
     <div class="row">
       <input v-model="company" type="text" placeholder="Company Name*" required autocomplete="organization">
-      <input v-model="companyURL" type="text" placeholder="Company Website or LinkedIn*" required autocomplete="url">
+      <input v-model="companyURL" type="text" placeholder="Website Address*" required autocomplete="url">
     </div>
     <div class="row">
       <input v-model="phone" type="tel" placeholder="Phone" autocomplete="tel">
       <input v-model="zipCode" type="tel" placeholder="ZIP Code*" required autocomplete="postal-code">
     </div>
     <div class="comments">
-      <textarea v-model="comments" placeholder="Comments" class="display-block"></textarea>
+      <textarea v-model="comments" placeholder="Comments" class="display-block" autocomplete="off"></textarea>
       <label>
         <input type="checkbox" v-model="isAuthorized" required>
         <small>&nbsp;I am authorized to represent my company's position on net neutrality</small>
