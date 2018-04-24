@@ -1,16 +1,16 @@
 <template>
   <form @submit.prevent="submitForm()">
     <div class="row">
-      <input v-model="name" type="text" placeholder="Name*" required>
-      <input v-model="email" type="email" placeholder="Email*" required="">
+      <input v-model="name" type="text" placeholder="Name*" required autocomplete="name">
+      <input v-model="email" type="email" placeholder="Email*" required autocomplete="email">
     </div>
     <div class="row">
-      <input v-model="company" type="text" placeholder="Company Name*" required="">
-      <input v-model="companyURL" type="text" placeholder="Company Website or LinkedIn*" required>
+      <input v-model="company" type="text" placeholder="Company Name*" required autocomplete="organization">
+      <input v-model="companyURL" type="text" placeholder="Company Website or LinkedIn*" required autocomplete="off">
     </div>
     <div class="row">
-      <input v-model="phone" type="tel" placeholder="Phone">
-      <input v-model="zipCode" type="tel" placeholder="ZIP Code*" required>
+      <input v-model="phone" type="tel" placeholder="Phone" autocomplete="tel">
+      <input v-model="zipCode" type="tel" placeholder="ZIP Code*" required autocomplete="postal-code">
     </div>
     <div class="comments">
       <textarea v-model="comments" placeholder="Comments" class="display-block"></textarea>
