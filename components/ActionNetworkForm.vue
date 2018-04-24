@@ -6,7 +6,7 @@
     </div>
     <div class="row">
       <input v-model="company" type="text" placeholder="Company Name*" required autocomplete="organization">
-      <input v-model="companyURL" type="text" placeholder="Website Address*" required autocomplete="url">
+      <input v-model="companyURL" type="text" placeholder="Website*" required autocomplete="url">
     </div>
     <div class="row">
       <input v-model="phone" type="tel" placeholder="Phone" autocomplete="tel">
