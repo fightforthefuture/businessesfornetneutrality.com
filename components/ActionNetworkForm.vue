@@ -85,7 +85,8 @@ export default {
               company: this.company,
               company_url: this.companyURL,
             },
-            tags: this.tags
+            tags: this.tags,
+            source: this.$route.query.source
           }
         )
 
