@@ -94,7 +94,9 @@
         <b>Check out the map to find events related to net neutrality in your area</b><br>
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
       </p>
-      <iframe class="map" :src="eventsMapURL"></iframe>
+      <p>
+        <a href="https://events.battleforthenet.com/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
+      </p>
 
       <h3>
         How to Organize a Letter Delivery
