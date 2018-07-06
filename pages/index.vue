@@ -95,7 +95,7 @@
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
       </p>
       <p>
-        <a href="https://events.battleforthenet.com/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
+        <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
       </p>
 
       <h3>
