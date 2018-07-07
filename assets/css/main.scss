@@ -226,6 +226,7 @@ form {
 .container {
   width: 900px;
   margin: auto;
+  max-width: 100%;
 
   @include mobile {
     width: 100%;
