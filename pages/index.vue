@@ -5,13 +5,13 @@
         Small Businesses Can Save the Internet
       </h1>
       <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also
-      play a key role in saving it. In May 2018, we organized thousands of small business owners from
-      around the nation to sign on to our open letter to Congress in support of net neutrality.
-      Many of these business owners attended protest events and hand-delivered copies of the open letter
-      to their lawmakers ... and it worked. The Senate voted to overturn the FCC's repeal of net neutrality.</p>
-      <p>Now we need to win the vote in the House of Representatives, and we're calling on small
-      business owners once again. Tell your lawmakers to protect competition and free markets on the
-      Internet. Tell your lawmakers to support net neutrality.</p>
+      play a key role in saving it. Thousands of small business owners from across the nation have signed 
+      on to our open letter to Congress in support of net neutrality.  And on July 19th, 2018, many of 
+      these small business owners will gather at the offices of their Congressional Representatives to 
+      hand-deliver this letter.  
+      </p>
+      <p>If you're a small business owner, sign on to our letter demanding COngress protect competition 
+      and free markes on the Internet.<b></p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
@@ -90,7 +90,7 @@
 
     <section id="events">
       <h2>Join an event in your area</h2>
-      <p>On July 18th, small business owners from across the nation will meet at the offices of their Congressional Representatives to hand-deliver a copy of this open letter in support of net neutrality. These small businesses are demanding that Congress protect Main Street from greedy corporations, and we encourage you to show your support for local businesses by joining them.
+      <p>On July 19th, small business owners from across the nation will meet at the offices of their Congressional Representatives to hand-deliver a copy of this open letter in support of net neutrality. These small businesses are demanding that Congress protect Main Street from greedy corporations, and we encourage you to show your support for local businesses by joining them.
       </p>
       <B>This is the single most important thing you can do to help save the open Internet.</b>
       </p>
