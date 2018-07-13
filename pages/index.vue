@@ -135,6 +135,7 @@
         </li>
       </ol>
     </section>
+-->
 
     <footer class="site-footer">
       <p>Built by:</p>
@@ -148,7 +149,6 @@
 
     <social-sidebar/>
   </div>
--->
   
 </template>
 
