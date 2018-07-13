@@ -89,22 +89,42 @@
     </section>
 
     <section id="events">
-      <h2>Attend an event in your area</h2>
+      <h2>Join an event in your area</h2>
       <p>On July 18th, small business owners from across the nation will meet at the offices of their Congressional Representatives to hand-deliver a copy of this open letter in support of net neutrality. These small businesses are demanding that Congress protect Main Street from greedy corporations, and we encourage you to show your support for local businesses by joining them.
       </p>
       <B>This is the single most important thing you can do to help save the open Internet.</b>
       </p>
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
+      <a href="https://www.battleforthenet.com/map/">View Full Map</a>
       </p>
-      <p>
-      <a class=\"btn\" href=\"/map/\">View Full Map</a>
-      </p>
+      <h3>How to Participate</h3>
+      <ol>
+        <li>
+          <h4>Find an Event Near You</h4>
+          <p>Click on the map above to view events all across America. Find an event near you and RSVP.</p>
+        </li>
+        <li>
+          <h4>Spread the Word</h4>
+          <p>Feel free to spread the word by email, Facebook, twitter ... however you can! You might be surprised to find that some of your friends and business associates care about this issue and will want to join you.  </p>
+        </li>
+        <li>
+          <h4 id="deliver-the-letter">Deliver the Letter</h4>
+          <p>Select your state below to print out the letter and complete list of businesses who have signed on. Show up a few minutes early and wait outside the office for others to come. Around 15 minutes after the start time, go into the office with your crew of people and deliver the letter to the staffer at the front desk. Be friendly and polite, note the number of businesses in their district that have signed, and ask them to make sure the lawmaker gets it. Reiterate the ask of the letter: we want the Congress member to support the Congressional Review Act (CRA) resolution to overturn the FCC’s repeal of net neutrality.</p>
+          <div class="state-selector flex-row">
+            <select v-model="selectedState">
+              <option :value="null">Select your state</option>
+              <option v-for="(name, abbr) in states" :key="abbr" :value="abbr">{{ name }}</option>
+            </select>
+            <button class="btn" :disabled="!selectedState" @click="printLetter()">Print the Letter</button>
+          </div>
+        </li>
+      </ol>
     </section>
 
 <!--
     <section id="events">
-      <h2>Host or Join an Event</h2>
+      <h2>Join an Event in your area</h2>
       <p>
         <b>Check out the map to find events related to net neutrality in your area</b><br>
         If you’d like to organize a letter delivery to a congressperson in your area, read the instructions below and click the link to Organize a Delivery.
