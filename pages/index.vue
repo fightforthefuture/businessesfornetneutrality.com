@@ -4,14 +4,13 @@
       <h1>
         Small Businesses Can Save the Internet
       </h1>
-      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also
-      play a key role in saving it. Thousands of small business owners from across the nation have signed 
-      on to our open letter to Congress in support of net neutrality.  And on July 19th, 2018, many of 
-      these small business owners will gather at the offices of their Congressional Representatives to 
-      hand-deliver this letter.  
+      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also play a key 
+      role in saving it. Thousands of small business owners from across the nation have signed on to our open letter 
+      to Congress in support of net neutrality. On July 19th, 2018, many of these small business owners will gather 
+      at the offices of their Congressional Representatives to hand-deliver this letter. 
       </p>
-      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition 
-      and free markets on the Internet.</b></p>
+      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition and free 
+      markets on the Internet.</b></p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
@@ -90,9 +89,12 @@
 
     <section id="events">
       <h2>Join an event in your area</h2>
-      <p>On July 19th, small business owners from across the nation will meet at the offices of their Congressional Representatives to hand-deliver a copy of this open letter in support of net neutrality. These small businesses are demanding that Congress protect Main Street from greedy corporations, and we encourage you to show your support for local businesses by joining them.
+      <p>On July 19th, net neutrality supporters and small business leaders will meet at the offices of their 
+      Congressional Representatives to hand-deliver a copy of this open letter. People from across the country 
+      are showing up to demand that Congress protect main street from greedy corporations, and we encourage you 
+      to show your support for local businesses, free speech, and the open Internet by joining them.
       </p>
-      <B>This is the single most important thing you can do to help save the open Internet.</b>
+      <b>This is the single most important thing you can do to help save the open Internet.</b>
       </p>
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
@@ -102,11 +104,15 @@
       <ol>
         <li>
           <h4>Find an Event Near You</h4>
-          <p>Click on the map above to view events all across America. Find an event near you and RSVP.</p>
+          <p>Click on the map above to view events all across the United States, strategically organized at the most 
+          key congressional offices. Find an event near you and RSVP.
+          </p>
         </li>
         <li>
           <h4>Spread the Word</h4>
-          <p>Feel free to spread the word by email, Facebook, twitter ... however you can! You might be surprised to find that some of your friends and business associates care about this issue and will want to join you.  </p>
+          <p>Feel free to spread the word through email, Facebook, Twitter ... however you can! You might be surprised 
+          to find that some of your friends and business associates care about this issue and will want to join you.
+          </p>
         </li>
         <li>
           <h4 id="deliver-the-letter">Deliver the Letter</h4>
