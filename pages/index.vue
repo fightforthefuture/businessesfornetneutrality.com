@@ -88,6 +88,7 @@
       </div>
     </section>
 
+<!--
     <section id="events">
       <h2>Host or Join an Event</h2>
       <p>
@@ -147,6 +148,8 @@
 
     <social-sidebar/>
   </div>
+-->
+  
 </template>
 
 <script>
