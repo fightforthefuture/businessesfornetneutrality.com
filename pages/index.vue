@@ -10,8 +10,8 @@
       these small business owners will gather at the offices of their Congressional Representatives to 
       hand-deliver this letter.  
       </p>
-      <p>If you're a small business owner, sign on to our letter demanding COngress protect competition 
-      and free markes on the Internet.<b></p>
+      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition 
+      and free markes on the Internet.</b></p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
