@@ -97,6 +97,7 @@
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
       </p>
+      <p>
       <a class=\"btn\" href=\"/map/\">View Full Map</a>
       </p>
     </section>
