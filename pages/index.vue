@@ -92,11 +92,12 @@
       <h2>Attend an event in your area</h2>
       <p>On July 18th, small business owners from across the nation will meet at the offices of their Congressional Representatives to hand-deliver a copy of this open letter in support of net neutrality. These small businesses are demanding that Congress protect Main Street from greedy corporations, and we encourage you to show your support for local businesses by joining them.
       </p>
-      <p>This is the single most important thing you can do to help save the open Internet. Similar events were crucial to passing the Congressional Review Act (CRA) resolution in the Senate, which would restore net neutrality protections gutted by the FCC. Now we need 218 Representatives to do the same in the House. 175 representatives have already signed on, but we need to convince more lawmakers to listen to the voters and job-creators in their district!
+      <B>This is the single most important thing you can do to help save the open Internet.</b>
       </p>
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
       </p>
+      <a :href="createEventURL" target="_blank" @click="$ga.event('button', 'clicked', 'Organize a Delivery')">View All Events</a>
     </section>
 
 <!--
