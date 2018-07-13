@@ -97,7 +97,7 @@
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
       </p>
-      <a :href="createEventURL" target="_blank" @click="$ga.event('button', 'clicked', 'Organize a Delivery')">View All Events</a>
+      <a class=\"btn\" href=\"/map/\">View Full Map</a></p>"
     </section>
 
 <!--
