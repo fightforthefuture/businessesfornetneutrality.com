@@ -4,12 +4,12 @@
       <h1>
         Small Businesses Can Save the Internet
       </h1>
-      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also play a key 
-      role in saving it. Thousands of small business owners from across the nation have signed on to our open letter 
-      to Congress in support of net neutrality. On July 19th, 2018, many of these small business owners will gather 
-      at the offices of their Congressional Representatives to hand-deliver this letter. 
+      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also play a key
+      role in saving it. Thousands of small business owners from across the nation have signed on to our open letter
+      to Congress in support of net neutrality. On July 19th, 2018, many of these small business owners will gather
+      at the offices of their Congressional Representatives to hand-deliver this letter.
       </p>
-      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition and free 
+      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition and free
       markets on the Internet.</b></p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
@@ -55,7 +55,7 @@
     <section id="letter">
       <h2>
         Read the Letter
-        <small><a href="/businesses_for_net_neutrality.pdf">Download the Letter to Congress</a></small>
+        <small><a href="/pdfs/letter.pdf">Download the Letter to Congress</a></small>
       </h2>
       <div v-html="letterToCongress"></div>
     </section>
@@ -89,12 +89,12 @@
 
     <section id="events">
       <h2>Join an event in your area</h2>
-      <p>On July 19th, net neutrality supporters and small business leaders will meet at the offices of their 
-      Congressional Representatives to hand-deliver a copy of this open letter. People from across the country 
-      are showing up to demand that Congress protect main street from greedy corporations, and we encourage you 
+      <p>On July 19th, net neutrality supporters and small business leaders will meet at the offices of their
+      Congressional Representatives to hand-deliver a copy of this open letter. People from across the country
+      are showing up to demand that Congress protect main street from greedy corporations, and we encourage you
       to show your support for local businesses, free speech, and the open Internet by joining them.
       </p>
-      <b>This is the single most important thing you can do to help save the open Internet.</b>
+      <p><b>This is the single most important thing you can do to help save the open Internet.</b>
       </p>
       <p>
         <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
@@ -104,26 +104,29 @@
       <ol>
         <li>
           <h4>Find an Event Near You</h4>
-          <p>Click on the map above to view events all across the United States, strategically organized at the most 
+          <p>Click on the map above to view events all across the United States, strategically organized at the most
           key congressional offices. Find an event near you and RSVP.
           </p>
         </li>
         <li>
           <h4>Spread the Word</h4>
-          <p>Feel free to spread the word through email, Facebook, Twitter ... however you can! You might be surprised 
+          <p>Feel free to spread the word through email, Facebook, Twitter ... however you can! You might be surprised
           to find that some of your friends and business associates care about this issue and will want to join you.
           </p>
         </li>
         <li>
           <h4 id="deliver-the-letter">Deliver the Letter</h4>
-          <p>Select your state below to print out the letter and complete list of businesses who have signed on. Show up a few minutes early and wait outside the office for others to come. Around 15 minutes after the start time, go into the office with your crew of people and deliver the letter to the staffer at the front desk. Be friendly and polite, note the number of businesses in their district that have signed, and ask them to make sure the lawmaker gets it. Reiterate the ask of the letter: we want the Congress member to support the Congressional Review Act (CRA) resolution to overturn the FCC’s repeal of net neutrality.</p>
-          <div class="state-selector flex-row">
+          <p>Print the letter, show up a few minutes early, and wait outside the office for others to come. Around 15 minutes after the start time, go into the office with your crew of people and deliver the letter to the staffer at the front desk. Be friendly and polite, note the number of businesses in their district that have signed, and ask them to make sure the lawmaker gets it. Reiterate the ask of the letter: we want the Congress member to support the Congressional Review Act (CRA) resolution to overturn the FCC’s repeal of net neutrality.</p>
+<!--           <div class="state-selector flex-row">
             <select v-model="selectedState">
               <option :value="null">Select your state</option>
               <option v-for="(name, abbr) in states" :key="abbr" :value="abbr">{{ name }}</option>
             </select>
             <button class="btn" :disabled="!selectedState" @click="printLetter()">Print the Letter</button>
-          </div>
+          </div> -->
+          <p>
+            <a class="btn" href="/pdfs/letter.pdf" target="_blank" @click="$ga.event('button', 'clicked', 'Print the Letter')">Print the Letter</a>
+          </p>
         </li>
       </ol>
     </section>
@@ -189,7 +192,7 @@
 
     <social-sidebar/>
   </div>
-  
+
 </template>
 
 <script>
