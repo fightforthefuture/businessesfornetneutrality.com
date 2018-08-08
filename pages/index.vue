@@ -100,27 +100,31 @@
       get the magic number of lawmakers signed on, we can force a vote past leadership to get net neutrality reinstated.
       </p>
       <h3>How to Join the Day of Action</h3>
-      <ol>
-        <ul>
+      <ul>
+        <li>
+        Use our congressional “scoreboard” to find the member of Congress that represents your business’ district. Then 
+        tweet at them from your company account asking them to sign the CRA discharge petition.
+        </li>
+        <li>
           <h4>Join Our Telepresser</h4>
           <p>On August 16th we will convene a phone call between business owers and journalists where small business 
           owners from across the country can speak with members of the press about how net neutrality impacts their 
           ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your 
           company’s story email team [at] fightforthefuture [dot] org and we’ll get in touch ASAP.
           </p>
-        </ul>
-        <ul>
+        </li>
+        <li>
           <h4>Install Our "Contact Congress" Alert</h4>
           <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without 
           ever leaving your site. Try it out or grab the code here.
           </p>
-        </ul>
-        <ul>
+        </li>
+        <li>
           <h4>Get the Word Out on Social Media</h4>
           <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
           shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram here [link coming soon!].
           </p>
-        </ul>
+        </li>
       </ol>
     </section>
 
