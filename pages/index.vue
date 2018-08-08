@@ -101,10 +101,12 @@
       </p>
       <h3>How to Join the Day of Action</h3>
       <ul>
+         <li>
          <h4>Tweet at Your Member of Congress</h4>
          <p>Use our congressional “scoreboard” to find the member of Congress that represents your business’ district. Then 
          tweet at them from your company account asking them to sign the CRA discharge petition.
          </p>
+         </li>
         <li>
           <h4>Join Our Telepresser</h4>
           <p>On August 16th we will convene a phone call between business owers and journalists where small business 
@@ -125,7 +127,7 @@
           shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram here [link coming soon!].
           </p>
         </li>
-      </ol>
+      </ul>
     </section>
 
 <!--
