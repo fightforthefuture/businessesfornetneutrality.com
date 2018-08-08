@@ -10,7 +10,7 @@
       and new fees from Internet service providers.
       </p>
       <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets 
-      online</b>. Then join the August 16th "Save Online Business" Day of Action below.
+      online</b>. Then join the August 16th Businesses for Net Neutrality Day of Action below.
       </p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
