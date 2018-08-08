@@ -102,8 +102,10 @@
       <h3>How to Join the Day of Action</h3>
       <ul>
         <li>
-        Use our congressional “scoreboard” to find the member of Congress that represents your business’ district. Then 
-        tweet at them from your company account asking them to sign the CRA discharge petition.
+         <h4>Tweet at Your Member of Congress</h4>
+         <p>Use our congressional “scoreboard” to find the member of Congress that represents your business’ district. Then 
+         tweet at them from your company account asking them to sign the CRA discharge petition.
+         </p>
         </li>
         <li>
           <h4>Join Our Telepresser</h4>
