@@ -4,9 +4,10 @@
       <h1>
         SMALL BUSINESSES NEED NET NEUTRALITY
       </h1>
-      <p>Thousands of small business owners from across the nation have signed on to our open letter to Congress in 
-      support of net neutrality. On August 16th, they will pressure lawmakers to restore net neutrality protections 
-      in an online day of action.
+      <p>Small businesses can't survive without the open Internet. That's why thousands of companies have signed on to 
+      our open letter to Congress in support of net neutrality. On August 16th, they will join together in an online 
+      day of action and pressure lawmakers to restore net neutrality protections that prevent censorship, throttling, 
+      and new fees from Internet service providers.
       </p>
       <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets 
       online</b>. Then join the August 16th "Save Online Business" Day of Action below.
@@ -88,16 +89,16 @@
     </section>
 
     <section id="action">
-      <h2>August 16th: Save Online Businesses</h2>
+      <h2>August 16th: Businesses for Net Neutrality Day</h2>
       <p>On August 16th, small business owners will come together and pressure members of Congress to sign 
-      the Congressional Review Act (CRA) resolution “discharge petition” to restore strong net neutrality rules.  
-      Small businesses are the backbone of our nation’s economy, so when they talk, Congress listens. This makes 
-      pressure from small businesses super important.
+      the Congressional Review Act (CRA) resolution discharge petition to restore strong net neutrality rules.  
+      Small businesses cannot afford to be blocked, throttled or charged extra fees by Internet service providers. 
+      Without these protections they are at a competitive disadvantage against larger, entrenched players with 
+      much deeper pockets. This is unfair, and it’s time to fight back.
       </p>
       <p>We'll provide tools, graphics, and social media materials for everyone to make it super easy for business 
-      owners to take action. To get the CRA passed in the House of Representatives, we need 215 members signed on to 
-      the “discharge petition.” The CRA has already passed the Senate with historic bipartisan support, so if we can 
-      get the magic number of lawmakers signed on, we can force a vote past leadership to get net neutrality reinstated.
+      owners to take action. The CRA has already passed the Senate with historic bipartisan support, and if we can 
+      get a handful of additional lawmakers signed on in the House we can force a vote to restore net neutrality.
       </p>
       <h3>How to Join the Day of Action</h3>
       <ul>
