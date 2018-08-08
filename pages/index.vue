@@ -15,7 +15,7 @@
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
         <a href="#businesses">Participating Businesses</a>
-        <a href="#events">Join the Day of Action</a>
+        <a href="#action">Join the Day of Action</a>
       </nav>
     </section>
 
@@ -87,7 +87,7 @@
       </div>
     </section>
 
-    <section id="events">
+    <section id="action">
       <h2>August 16th: Save Online Businesses</h2>
       <p>On August 16th, small business owners will come together and pressure members of Congress to sign 
       the Congressional Review Act (CRA) resolution “discharge petition” to restore strong net neutrality rules.  
