@@ -9,13 +9,13 @@
       in an online day of action.
       </p>
       <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets 
-      online</b>. Then join the August 16th Save Online Business Day of Action below.
+      online</b>. Then join the August 16th "Save Online Business" Day of Action below.
       </p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
         <a href="#businesses">Participating Businesses</a>
-        <a href="#events">Join an Event</a>
+        <a href="#events">Join the Day of Action</a>
       </nav>
     </section>
 
@@ -88,46 +88,39 @@
     </section>
 
     <section id="events">
-      <h2>Join an event in your area</h2>
-      <p>On July 19th, net neutrality supporters and small business leaders will meet at the offices of their
-      Congressional Representatives to hand-deliver a copy of this open letter. People from across the country
-      are showing up to demand that Congress protect main street from greedy corporations, and we encourage you
-      to show your support for local businesses, free speech, and the open Internet by joining them.
+      <h2>August 16th: Save Online Businesses</h2>
+      <p>On August 16th, small business owners will come together and pressure members of Congress to sign 
+      the Congressional Review Act (CRA) resolution “discharge petition” to restore strong net neutrality rules.  
+      Small businesses are the backbone of our nation’s economy, so when they talk, Congress listens. This makes 
+      pressure from small businesses super important.
       </p>
-      <p><b>This is the single most important thing you can do to help save the open Internet.</b>
+      <p>We'll provide tools, graphics, and social media materials for everyone to make it super easy for business 
+      owners to take action. To get the CRA passed in the House of Representatives, we need 215 members signed on to 
+      the “discharge petition.” The CRA has already passed the Senate with historic bipartisan support, so if we can 
+      get the magic number of lawmakers signed on, we can force a vote past leadership to get net neutrality reinstated.
       </p>
-      <p>
-        <a href="https://www.battleforthenet.com/map/"><img src="https://data.battleforthenet.com/events.png" alt="Events Map" /></a>
-      <a href="https://www.battleforthenet.com/map/">View Full Map</a>
-      </p>
-      <h3>How to Participate</h3>
+      <h3>How to Join the Day of Action</h3>
       <ol>
-        <li>
-          <h4>Find an Event Near You</h4>
-          <p>Click on the map above to view events all across the United States, strategically organized at the most
-          key congressional offices. Find an event near you and RSVP.
+        <ul>
+          <h4>Join Our Telepresser</h4>
+          <p>On August 16th we will convene a phone call between business owers and journalists where small business 
+          owners from across the country can speak with members of the press about how net neutrality impacts their 
+          ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your 
+          company’s story email team [at] fightforthefuture [dot] org and we’ll get in touch ASAP.
           </p>
-        </li>
-        <li>
-          <h4>Spread the Word</h4>
-          <p>Feel free to spread the word through email, Facebook, Twitter ... however you can! You might be surprised
-          to find that some of your friends and business associates care about this issue and will want to join you.
+        </ul>
+        <ul>
+          <h4>Install Our "Contact Congress" Alert</h4>
+          <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without 
+          ever leaving your site. Try it out or grab the code here.
           </p>
-        </li>
-        <li>
-          <h4 id="deliver-the-letter">Deliver the Letter</h4>
-          <p>Print the letter, show up a few minutes early, and wait outside the office for others to come. Around 15 minutes after the start time, go into the office with your crew of people and deliver the letter to the staffer at the front desk. Be friendly and polite, note the number of businesses in their district that have signed, and ask them to make sure the lawmaker gets it. Reiterate the ask of the letter: we want the Congress member to support the Congressional Review Act (CRA) resolution to overturn the FCC’s repeal of net neutrality.</p>
-<!--           <div class="state-selector flex-row">
-            <select v-model="selectedState">
-              <option :value="null">Select your state</option>
-              <option v-for="(name, abbr) in states" :key="abbr" :value="abbr">{{ name }}</option>
-            </select>
-            <button class="btn" :disabled="!selectedState" @click="printLetter()">Print the Letter</button>
-          </div> -->
-          <p>
-            <a class="btn" href="/pdfs/letter.pdf" target="_blank" @click="$ga.event('button', 'clicked', 'Print the Letter')">Print the Letter</a>
+        </ul>
+        <ul>
+          <h4>Get the Word Out on Social Media</h4>
+          <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
+          shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram here [link coming soon!].
           </p>
-        </li>
+        </ul>
       </ol>
     </section>
 
