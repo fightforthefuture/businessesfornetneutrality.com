@@ -120,7 +120,7 @@
           <h4>Install Our "Contact Congress" Alert</h4>
           <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without 
           ever leaving your site. <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">Try it out</a> 
-          or grab the code <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">here</a..
+          or grab the code <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">here</a>.
           </p>
         </li>
         <li>
