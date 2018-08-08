@@ -2,15 +2,15 @@
   <div class="container">
     <section>
       <h1>
-        Small Businesses Can Save the Internet
+        SMALL BUSINESSES NEED NET NEUTRALITY
       </h1>
-      <p>Small businesses will be among those hurt most by the loss of net neutrality, but they can also play a key
-      role in saving it. Thousands of small business owners from across the nation have signed on to our open letter
-      to Congress in support of net neutrality. On July 19th, 2018, many of these small business owners will gather
-      at the offices of their Congressional Representatives to hand-deliver this letter.
+      <p>Thousands of small business owners from across the nation have signed on to our open letter to Congress in 
+      support of net neutrality. On August 16th, they will pressure lawmakers to restore net neutrality protections 
+      in an online day of action.
       </p>
-      <p><b>If you're a small business owner, sign on to our letter demanding Congress protect competition and free
-      markets on the Internet.</b></p>
+      <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets 
+      online</b>. Then join the August 16th Save Online Business Day of Action below.
+      </p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
       <nav class="section-links flex-center">
         <a href="#letter">Read the Letter</a>
