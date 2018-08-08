@@ -120,13 +120,14 @@
           <h4>Install Our "Contact Congress" Alert</h4>
           <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without 
           ever leaving your site. <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">Try it out</a> 
-          or grab the code <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">here</a>.
+          or grab the code <a href="https://github.com/fightforthefuture/july23-widget" target="_blank">here</a>.
           </p>
         </li>
         <li>
           <h4>Get the Word Out on Social Media</h4>
           <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
-          shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram <a href="https://www.battleforthenet.com/media/" target="_blank">here</a>.
+          shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram 
+          <a href="https://www.battleforthenet.com/media/#social" target="_blank">here</a>.
           </p>
         </li>
       </ul>
