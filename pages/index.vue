@@ -128,7 +128,7 @@
           <h4>Get the Word Out on Social Media</h4>
           <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
           shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram 
-          <a href="https://www.battleforthenet.com/media/#social" target="_blank">here</a>.
+          <a href="https://www.businessesfornetneutrality.com/media/" target="_blank">here</a>.
           </p>
         </li>
       </ul>
