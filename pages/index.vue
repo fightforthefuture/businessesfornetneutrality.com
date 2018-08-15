@@ -4,12 +4,12 @@
       <h1>
         SMALL BUSINESSES NEED NET NEUTRALITY
       </h1>
-      <p>Small businesses can't survive without the open Internet. That's why thousands of companies have signed on to 
-      our open letter to Congress in support of net neutrality. On August 16th, they will join together in an online 
-      day of action and pressure lawmakers to restore net neutrality protections that prevent censorship, throttling, 
+      <p>Small businesses can't survive without the open Internet. That's why thousands of companies have signed on to
+      our open letter to Congress in support of net neutrality. On August 16th, they will join together in an online
+      day of action and pressure lawmakers to restore net neutrality protections that prevent censorship, throttling,
       and new fees from Internet service providers.
       </p>
-      <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets 
+      <p><b>If you're a small business owner, sign our letter demanding Congress protect competition and free markets
       online</b>. Then join the August 16th Businesses for Net Neutrality Day of Action below.
       </p>
       <p><a class="btn btn-block" href="#signon">Sign the letter</a></p>
@@ -61,6 +61,16 @@
       <div v-html="letterToCongress"></div>
     </section>
 
+    <section id="quotes">
+      <h2 ref="quotesWidth">What Businesses are saying:</h2>
+      <p>
+        Thousands of businesses have signed this open letter to Congress, urging
+        our lawmakers to listen to the voices of the people and overturn the
+        FCC&rsquo;s repeal of net neutrality. These are just a few comments:
+      </p>
+      <quote-scroller :init-quotes-width="initQuotesWidth"></quote-scroller>
+    </section>
+
     <section id="businesses">
       <h2>Participating Businesses</h2>
       <p>Thousands of businesses have signed the letter to support the CRA to save net neutrality.  Will your business join us?</p>
@@ -90,47 +100,47 @@
 
     <section id="action">
       <h2>August 16th: Businesses for Net Neutrality Day</h2>
-      <p>On August 16th, small business owners will come together and pressure members of Congress to sign 
-      the Congressional Review Act (CRA) resolution discharge petition to restore strong net neutrality rules.  
-      Small businesses cannot afford to be blocked, throttled or charged extra fees by Internet service providers. 
-      Without these protections they are at a competitive disadvantage against larger, entrenched players with 
+      <p>On August 16th, small business owners will come together and pressure members of Congress to sign
+      the Congressional Review Act (CRA) resolution discharge petition to restore strong net neutrality rules.
+      Small businesses cannot afford to be blocked, throttled or charged extra fees by Internet service providers.
+      Without these protections they are at a competitive disadvantage against larger, entrenched players with
       much deeper pockets. This is unfair, and it’s time to fight back.
       </p>
-      <p>We'll provide tools, graphics, and social media materials for everyone to make it super easy for business 
-      owners to take action. The CRA has already passed the Senate with historic bipartisan support, and if we can 
+      <p>We'll provide tools, graphics, and social media materials for everyone to make it super easy for business
+      owners to take action. The CRA has already passed the Senate with historic bipartisan support, and if we can
       get a handful of additional lawmakers signed on in the House we can force a vote to restore net neutrality.
       </p>
       <h3>How to Join the Day of Action</h3>
       <ul>
          <li>
          <h4>Tweet at Your Member of Congress</h4>
-         <p>Use our congressional "<a href="https://www.battleforthenet.com/scoreboard/" target="_blank">scoreboard</a>" 
-         to find the member of Congress that represents your business’ district. Then tweet at them from your company 
+         <p>Use our congressional "<a href="https://www.battleforthenet.com/scoreboard/" target="_blank">scoreboard</a>"
+         to find the member of Congress that represents your business’ district. Then tweet at them from your company
          account asking them to sign the CRA discharge petition.
          </p>
          </li>
         <li>
           <h4>Join Our Telepresser</h4>
-          <p>On August 16th we will convene 
-          <a href="http://tumblr.fightforthefuture.org/post/176990280353/thursday-small-business-owners-hold-telephone" target="_blank">a phone call between business owners and journalists</a> 
-          where small business owners from across the country can speak with members of the press about how net neutrality 
-          impacts their ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your 
+          <p>On August 16th we will convene
+          <a href="http://tumblr.fightforthefuture.org/post/176990280353/thursday-small-business-owners-hold-telephone" target="_blank">a phone call between business owners and journalists</a>
+          where small business owners from across the country can speak with members of the press about how net neutrality
+          impacts their ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your
           company’s story email team [at] fightforthefuture [dot] org and we’ll get in touch ASAP.
           </p>
         </li>
         <li>
           <h4>Install Our "Contact Congress" Alert</h4>
-          <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without 
-          ever leaving your site. <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">Try it out</a> 
+          <p>If you run a website for your company, deploy our updated widget to let your users contact Congress without
+          ever leaving your site. <a href="https://www.fightforthefuture.org/?widget=july23" target="_blank">Try it out</a>
           or grab the code <a href="https://github.com/fightforthefuture/july23-widget" target="_blank">here</a>.
           </p>
         </li>
         <li>
           <h4>Get the Word Out on Social Media</h4>
-          <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
-          shareable images and 
+          <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready
+          shareable images and
           <a href="https://docs.google.com/document/d/1mPqmIwpxAHjJu63QJYaZJeDivZ4tZdw9PUb6wBeJCdU/edit" target="_blank">suggested copy</a>
-          for Facebook, Twitter, LinkedIn and Instagram 
+          for Facebook, Twitter, LinkedIn and Instagram
           <a href="https://www.businessesfornetneutrality.com/media/" target="_blank">here</a>.
           </p>
         </li>
@@ -199,6 +209,7 @@ import SocialSidebar from '~/components/SocialSidebar'
 import FacebookButton from '~/components/FacebookButton'
 import TwitterButton from '~/components/TwitterButton'
 import LinkedInButton from '~/components/LinkedInButton'
+import QuoteScroller from '~/components/QuoteScroller'
 import states from '~/assets/data/states.json'
 import { geocodeState, simpleFormat } from '~/assets/js/helpers.js'
 import settings from '~/config.json'
@@ -210,7 +221,8 @@ export default {
     SocialSidebar,
     FacebookButton,
     TwitterButton,
-    LinkedInButton
+    LinkedInButton,
+    QuoteScroller
   },
 
   computed: {
@@ -239,7 +251,8 @@ export default {
       selectedState: null,
       businessListIsVisible: false,
       businesses: [],
-      isLoading: false
+      isLoading: false,
+      initQuotesWidth: 700
     }
   },
 
@@ -260,9 +273,18 @@ export default {
         el.scrollIntoView()
       }
     }
+
+    this.setQuoteWidthInScroller()
+    this.$nextTick(function() {
+      window.addEventListener('resize', this.setQuoteWidthInScroller)
+    })
   },
 
   methods: {
+    setQuoteWidthInScroller() {
+      this.initQuotesWidth = this.$refs.quotesWidth.clientWidth
+    },
+
     printLetter() {
       this.$ga.event('button', 'clicked', 'Print the Letter')
       window.open(`/pdfs/${this.selectedState.toLowerCase()}.pdf`, '_blank')
