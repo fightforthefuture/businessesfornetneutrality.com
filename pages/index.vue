@@ -111,9 +111,10 @@
          </li>
         <li>
           <h4>Join Our Telepresser</h4>
-          <p>On August 16th we will convene a phone call between business owners and journalists where small business 
-          owners from across the country can speak with members of the press about how net neutrality impacts their 
-          ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your 
+          <p>On August 16th we will convene 
+          <a href="http://tumblr.fightforthefuture.org/post/176990280353/thursday-small-business-owners-hold-telephone" target="_blank">a phone call between business owners and journalists</a> 
+          where small business owners from across the country can speak with members of the press about how net neutrality 
+          impacts their ability to grow their business and reach customers online. Space is limited, but if you’d like to tell your 
           company’s story email team [at] fightforthefuture [dot] org and we’ll get in touch ASAP.
           </p>
         </li>
@@ -127,7 +128,9 @@
         <li>
           <h4>Get the Word Out on Social Media</h4>
           <p>Change your social media avatars and profile pics to help sound the alarm. You can also find social media-ready 
-          shareable images and suggested copy for Facebook, Twitter, LinkedIn and Instagram 
+          shareable images and 
+          <a href="https://docs.google.com/document/d/1mPqmIwpxAHjJu63QJYaZJeDivZ4tZdw9PUb6wBeJCdU/edit" target="_blank">suggested copy</a>
+          for Facebook, Twitter, LinkedIn and Instagram 
           <a href="https://www.businessesfornetneutrality.com/media/" target="_blank">here</a>.
           </p>
         </li>
