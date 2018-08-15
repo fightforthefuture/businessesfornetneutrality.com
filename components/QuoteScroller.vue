@@ -31,6 +31,10 @@
         font-weight: bold;
         margin-top: 1rem;
       }
+
+      a {
+        color: $white;
+      }
     }
 
     nav {
@@ -74,8 +78,12 @@
 
     &.active {
       opacity: 1;
-      color: #1e1e1e;
-      background-color: #fff;
+      color: $darkGray;
+      background-color: $white;
+
+      a {
+        color: $darkGray;
+      }
 
       nav {
         display: block;
@@ -107,7 +115,12 @@
              ref="quote" class="quote" :class="index == page ? 'active' : ''">
           <blockquote>
             “{{ quote.text }}”
-            <span class="source" v-if="quote.source">{{ quote.source }}</span>
+            <div class="source" v-if="quote.source">
+              <a v-if="quote.link" :href="quote.link" target="_blank">
+                {{ quote.source }}
+              </a>
+              <span v-else>{{ quote.source }}</span>
+            </div>
           </blockquote>
           <nav>
             <button class="prev" @click="prevPage()" :disabled="page < 1">
